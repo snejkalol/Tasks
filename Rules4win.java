@@ -37,5 +37,5 @@ public class Rules4win {
                 break;
             }
         rez[2]=who;  
-        }       // кто победил  
+        }      
 }
